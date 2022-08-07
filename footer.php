@@ -1,7 +1,7 @@
 
 <footer class="m-2">
     <p>Author: Hege Refsnes<br>
-    <a href="mailto:hege@example.com">hege@example.com</a></p>
+    <a href="www.shyamsundaryadav.com.np">shyamkryadav345@gmail.com</a></p>
   </footer>
 
 
