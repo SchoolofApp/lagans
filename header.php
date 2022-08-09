@@ -23,7 +23,15 @@
                 <button class="btn btn-primary" type="button">Search</button>
               </form>
           <li class="nav-item">
-            <a class="nav-link ms-5 active" href="javascript:void(0)">Alert</a>
+            <a class="nav-link ms-5 active" href="javascript:void(0)">Gallery</a>
+          </li>
+       
+          <li class="nav-item">
+            <a class="nav-link ms-5 active" href="javascript:void(0)">About</a>
+          </li>
+       
+          <li class="nav-item">
+            <a class="nav-link ms-5 active" href="javascript:void(0)">Contact</a>
           </li>
        
 
